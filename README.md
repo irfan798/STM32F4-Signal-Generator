@@ -7,6 +7,8 @@ Homework Project For
 - Gebze Technical University
 - Furkan Çaycı, Ph.D.
 
+You can select generated signal throuh UART Terminal from Sinus, Square, Triangle, Sawtooth, Noise Waves and its Frequency. The signal is generated with PWM and filtered with passive lowpass filter
+
 # Report
 Check [Report](Report.pdf) for detailed explanation
 
