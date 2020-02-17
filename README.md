@@ -13,5 +13,5 @@ Check [Report](Report.pdf) for detailed explanation
 # Contributors
 
  - [İrfan Bilaloğlu](https://github.com/irfan798)
- - Ali Fırat Arı
+ - [Ali Fırat Arı](https://github.com/alifiratari)
  - [Sencen Altuntop](https://github.com/sencerman)
